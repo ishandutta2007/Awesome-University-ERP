@@ -42,79 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Ellucian Banner](https://www.ellucian.com/solutions/ellucian-banner)**  
-
-  Flagship higher-education ERP and SIS for large universities, covering student, finance, HR, and financial aid with deep functional breadth and a large partner ecosystem.
-
-
-
-- **[Ellucian Colleague](https://www.ellucian.com/solutions/ellucian-colleague)**  
-
-  Integrated ERP/SIS designed for small-to-midsize colleges and community colleges, focusing on student lifecycle and administrative efficiency.
-
-
-
-- **[Anthology Student](https://www.anthology.com/)**  
-
-  Modern student information and engagement platform (evolved from Campus Management and related products) supporting the full learner lifecycle.
-
-
-
-- **[Jenzabar / Jenzabar ONE](https://www.jenzabar.com/)**  
-
-  Higher-education platform tailored for small-to-midsize private colleges, combining SIS, CRM, retention tools, and administrative functions.
-
-
-
-- **[CampusNexus](https://www.campusmanagement.com/)**  
-
-  Student information and campus management solution historically focused on career colleges and specialized institutions (now part of broader Anthology ecosystem).
-
-
-
-- **[Workday Student](https://www.workday.com/en-us/products/student.html)**  
-
-  Cloud-native student system tightly integrated with Workday Finance and HCM, aimed at institutions seeking a unified enterprise platform.
-
-
-
-- **[Oracle Student Cloud / PeopleSoft Campus Solutions](https://www.oracle.com/industries/higher-education/)**  
-
-  Mature Campus Solutions and newer Oracle Cloud Student offerings for large public institutions and complex higher-education environments.
-
-
-
-- **[Unit4 Student Management](https://www.unit4.com/)**  
-
-  People-centric ERP and student management solution popular in education and non-profit sectors, with strong fund accounting capabilities.
-
-
-
-- **[CAMS Enterprise](https://www.three-rivers.com/)**  
-
-  Comprehensive student information system used by many private colleges and universities for academic and administrative operations.
-
-
-
-- **[Populi](https://www.populi.co/)**  
-
-  Cloud-based student information and campus management system designed for smaller colleges and seminaries with an emphasis on ease of use.
-
-
-
-- **[Academia ERP](https://www.serosoft.com/)**  
-
-  Higher-education ERP covering admissions, academics, examinations, finance, and campus administration.
-
-
-
-- **[Classe365](https://www.classe365.com/)**  
-
-  Cloud student information and learning management platform used by schools, colleges, and training institutions.
-
-
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[Ellucian Banner](https://www.ellucian.com/solutions/ellucian-banner)** | Flagship higher-education ERP and SIS for large universities, covering student, finance, HR, and financial aid with deep functional breadth and a large partner ecosystem. | Custom Quote | None |
+| **[Ellucian Colleague](https://www.ellucian.com/solutions/ellucian-colleague)** | Integrated ERP/SIS designed for small-to-midsize colleges and community colleges, focusing on student lifecycle and administrative efficiency. | Custom Quote | None |
+| **[Anthology Student](https://www.anthology.com/)** | Modern student information and engagement platform (evolved from Campus Management and related products) supporting the full learner lifecycle. | Custom Quote | None |
+| **[Jenzabar / Jenzabar ONE](https://www.jenzabar.com/)** | Higher-education platform tailored for small-to-midsize private colleges, combining SIS, CRM, retention tools, and administrative functions. | Custom Quote | None |
+| **[CampusNexus](https://www.campusmanagement.com/)** | Student information and campus management solution historically focused on career colleges and specialized institutions (now part of broader Anthology ecosystem). | Custom Quote | None |
+| **[Workday Student](https://www.workday.com/en-us/products/student.html)** | Cloud-native student system tightly integrated with Workday Finance and HCM, aimed at institutions seeking a unified enterprise platform. | Custom Quote | None |
+| **[Oracle Student Cloud / PeopleSoft Campus Solutions](https://www.oracle.com/industries/higher-education/)** | Mature Campus Solutions and newer Oracle Cloud Student offerings for large public institutions and complex higher-education environments. | Custom Quote | None |
+| **[Unit4 Student Management](https://www.unit4.com/)** | People-centric ERP and student management solution popular in education and non-profit sectors, with strong fund accounting capabilities. | Custom Quote | None |
+| **[CAMS Enterprise](https://www.three-rivers.com/)** | Comprehensive student information system used by many private colleges and universities for academic and administrative operations. | Custom Quote | None |
+| **[Populi](https://www.populi.co/)** | Cloud-based student information and campus management system designed for smaller colleges and seminaries with an emphasis on ease of use. | Volume-based | None |
+| **[Academia ERP](https://www.serosoft.com/)** | Higher-education ERP covering admissions, academics, examinations, finance, and campus administration. | Custom Quote | None |
+| **[Classe365](https://www.classe365.com/)** | Cloud student information and learning management platform used by schools, colleges, and training institutions. | Per student/module based | None |
 
 ## Open-Source GitHub Projects
 
